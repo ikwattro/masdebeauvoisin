@@ -1,0 +1,60 @@
+body
+{
+	min-height:910px;
+	margin:0 auto;
+	background:#2b81af;
+}
+
+#wrapper
+{
+	width:1280px;
+	background: url('homebg.jpg') no-repeat #2b81af;
+	margin:0 auto;
+	padding-top: 60px;
+}
+
+.container{
+	width:100%;
+}
+
+.hero-unit
+{
+	background: none;
+	padding-top: 1px;
+}
+
+.hero-unit h1
+{
+	color: #C2CCD1;
+	margin-top:1px;
+	padding:0;
+	text-align:center;
+}
+
+.hero-unit
+{
+	color: #ff7c00;
+	
+}
+
+.hero-unit p
+{
+	text-align:center;
+	margin-top: 100px;
+}
+
+.homeunit
+{
+	margin-bottom: 700px;
+}
+
+footer
+{
+	text-align:center;
+}
+
+#navpat a
+{
+	float:left;
+	margin-right:50px;
+}

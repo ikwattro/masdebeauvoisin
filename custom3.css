@@ -1,0 +1,18 @@
+body
+{
+	min-height:910px;
+	margin:0 auto;
+}
+
+#wrapper
+{
+	width:1280px;
+	background: url('bgdogs2.jpg') no-repeat #2b81af;
+	margin:0 auto;
+	padding-top: 60px;
+}
+
+.bloc-chiens_left, .bloc-chiens_right
+{
+	margin-top: 350px;
+}

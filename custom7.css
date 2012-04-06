@@ -1,0 +1,23 @@
+body
+{
+	min-height:910px;
+	margin:0 auto;
+}
+
+#wrapper
+{
+	width:1280px;
+	background: url('pastourebg.jpg') no-repeat #2b81af;
+	margin:0 auto;
+	padding-top: 60px;
+}
+
+#dogresults
+{
+	clear:both;
+	text-align:center;
+	margin:0 auto;
+	padding-top:210px;
+	width:800px;
+	color:#333333;
+}
